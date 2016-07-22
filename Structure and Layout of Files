@@ -1,0 +1,125 @@
+*The following is the layout and orgainization of all the uploaded files in order to properly run mikes website off a local host*
+Master Folder as "website"
+
+*Folders*
+website
+  code
+  img
+  js
+
+*now within code*
+code
+  images
+  <!--Start contents of images folder-->
+    basements
+      example.basement.jpg
+    bathrooms
+      example.bathroom.jpg
+    kitchens
+      example.kitchen.jpg
+    restorations
+      example.restoration.jpg
+  arrows.jpg
+  bg.jpg
+  bullets.jpg
+  header-mobile.jpg
+  loading.gif
+  shadow.jpg
+  slider0.jpg
+  slider1.jpg
+  slider2.jpg
+  slider3.jpg
+  slider4.jpg
+  <!--End contents of images folder-->
+  
+  img
+  <!--Start contents of img folder-->
+  01.jpg
+  02.jpg
+  03.jpg
+  04.jpg
+  05.jpg
+  06.jpg
+  07.jpg
+  08.jpg
+  09.jpg
+  10.jpg
+  11.jpg
+  12.jpg
+  13.jpg
+  14.jpg
+  a17.jpg
+  loading.gif
+  t01.jpg
+  thumb-01.jpg
+  thumb-02.jpg
+  thumb-03.jpg
+  thumb-04.jpg
+  thumb-05.jpg
+  thumb-06.jpg
+  thumb-07.jpg
+  thumb-08.jpg
+  thumb-09.jpg
+  thumb-10.jpg
+  thumb-11.jpg
+  thumb-12.jpg
+  thumb-13.jpg
+  thumb-14.jpg
+  <!--End contents of img folder-->
+  
+  js
+  <!--Start contents of js folder-->
+  jquery.nivo.slider.css
+  jquery.nivo.slider.pack.css
+  jquery-1.7.1.min.css
+  jquery-1.9.1.min.css
+  jquery-1.11.3.min.css
+  jssor.slider.debug.css
+  jssor.slider.min.css
+  jssor.slider.mini.css
+  <!--End contents of js folder-->
+  
+<!-Start contents of code folder-->
+about.html
+basements.html
+bootstrap.min.cs
+bootstrap.min.js
+contact.html
+docs.min.js
+full-width.html
+ie10-viewport-bug-workaround.js
+inland.css
+kitchens.html
+main.html
+mobile.html
+restorations.html
+services.html
+<!--End contents of code folder-->
+
+img
+<!--Start contents of img folder-->
+  1920
+  <!Start contents of 1920 folder-->
+  blue.jpg
+  purple.jpg
+  red.jpg
+  <!--End-->
+  
+  home
+  <!--Start home folder-->
+  01.jpg
+  02.jpg
+  03.jpg
+  04.jpg
+  <!--End-->
+a11.jpg
+a21.jpg
+b05.jpg
+b21.jpg
+<!--End contents of img folder-->
+
+js
+<!--Start-->
+jquery-1.9.1.min.js
+jssor.slider.mini.js
+<!--End-->
